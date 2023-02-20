@@ -9,15 +9,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
-global.author = 'NZRLAFNDI' //Ganti Jadi Namamu
+global.ownerNumber = ['6287760550924','6287760550924'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6287760550924' //Owner Utama
+global.ownerName = 'Leon' //Ganti Jadi Namamu
+global.packname = 'LeonMd' //Ganti Jadi Nama Botmu
+global.author = 'LEON' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
-global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
-global.sosmed = 'https://www.instagram.com/_nzrlafndi' //Ganti Jadi Web Sosmed Mu
+global.webme = 'https://youtube.com/@leonnob2820' //Ganti Jadi Bebas Web Sosmed Mu
+global.sosmed = 'https://instagram.com/xxsmile_world' //Ganti Jadi Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
@@ -33,7 +33,7 @@ global.fiturError = 'Fitur Sedang Error ❎'
 global.autobackup = true //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
 global.autoread = true //Ganti ke false kalau gamau smua chat di read sama bot
 global.autotyping = true //Ganti ke false kalau gamau auto mengetik kalau ada chat masuk ke wa bot
-global.available = false //Ganti ke true kalau pengen bot nya keliatan online terus
+global.available = true //Ganti ke true kalau pengen bot nya keliatan online terus
 global.autolevelup = true //Ganti ke false klo gamau ada peningkatan exp user mu
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
